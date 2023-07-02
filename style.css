@@ -1,0 +1,44 @@
+.adobe-image{
+    padding-top: 20px;
+}
+
+a.text-title{
+    font-weight: lighter;
+}
+
+a.text-title-ads{
+    font-size: x-small;
+
+}
+a.text-add{
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+}
+div.card-content{
+    font-style: oblique;
+    font-weight: bold;
+}
+div.card-action{
+    font-size: large;
+}
+p.p-p{
+    font-size: larger;
+}
+a.a-a{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+div.caption{
+    font-weight: bolder;
+    font-style: oblique;
+}
+a.txt-nxt{
+    font-style: oblique;
+    font-weight: bolder;
+}
+h2,h3.header{
+    font-weight: bolder;
+    font-style: oblique;
+}
